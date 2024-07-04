@@ -1,0 +1,27 @@
+
+
+
+  var coins2bData = {};
+
+  
+  coins2bData.fcmconfig = {
+    apiKey: "AIzaSyDh4FmySYslOJ1TcuaGI_nt45Y5IShXNAU",
+    projectId: "push-one-a4be2",
+    messagingSenderId: "921711803660",
+    appId: "1:921711803660:web:9f85ce2d57ba80863fdd29"
+  };
+  
+
+  coins2bData.dmbconfig = {
+    useDmp: "0",
+    colorId: "",
+    sync: "0"
+  };
+
+  coins2bData.vapidconfig = {
+    vapid: "BJGNM1USFSW3C2kXqcbK42lBC4EQF0U7Xh-9r4UbojJW0CgG_6XhHi3O2mhcUJn0Cf7aL72hmns831oUp0NOlcY"
+  };
+
+  coins2bData.optinDisable = "0";
+  coins2bData.useImUid = "1";
+  
